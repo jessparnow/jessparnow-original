@@ -26,10 +26,10 @@ For major changes, please open an issue to discuss<br>
 Free for personal use
 
 ## Credits
-[Google Fonts](https://fonts.google.com/)
-[w3schools.com](https://www.w3schools.com/)
-[Bootstrap Developer Tools](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-[Paweł Czerwiński on Upsplash, background Image] (pawel-czerwinski-P8XV99FyzCk-unsplash.jpg)
+[Google Fonts](https://fonts.google.com/)<br>
+[w3schools.com](https://www.w3schools.com/)<br>
+[Bootstrap Developer Tools](https://getbootstrap.com/docs/4.3/getting-started/introduction/)<br>
+[Paweł Czerwiński on Upsplash, background Image] (pawel-czerwinski-P8XV99FyzCk-unsplash.jpg)<br>
 
 ## Liscence
 
