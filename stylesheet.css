@@ -1,22 +1,29 @@
-h1 {
+h1, h2 {
     font-family: 'Sacramento', cursive;
 
 }
 body {
     font-family: 'Roboto', sans-serif;
     padding: 20px;
+    background-image: url(pawel-czerwinski-P8XV99FyzCk-unsplash.jpg);
+}
+
+.about {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 5px;
 }
 
 li {
-    background-color: lightblue;
+    background-color: rgb(63, 63, 63);
     font-family: 'Roboto', sans-serif;
 }
+
 a{
-    color: black;
+    color: white;
 }
 
 a:hover {
-    color: darkslategray;
+    color: lightgray;
 }
 
 #emailbutton:hover {
@@ -55,9 +62,10 @@ footer {
     bottom: 0;
     right: 0;
     width: 100%;
-    background-color: lightblue;
+    background-color: rgb(63, 63, 63);
     padding: 20px;
     margin-top: 20px;
     font-size: x-small;
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
