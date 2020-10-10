@@ -1,71 +1,111 @@
-h1, h2 {
-    font-family: 'Sacramento', cursive;
-
+h1,
+h2 {
+  font-family: "Sacramento", cursive;
 }
+
 body {
-    font-family: 'Roboto', sans-serif;
-    padding: 20px;
-    background-image: url(pawel-czerwinski-P8XV99FyzCk-unsplash.jpg);
+  font-family: "Roboto", sans-serif;
+  padding: 20px;
+  background-image: url(pawel-czerwinski-P8XV99FyzCk-unsplash.jpg);
 }
 
 .about {
-    background: rgba(255, 255, 255, 0.5);
-    padding: 5px;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 5px;
+  border-radius: 5px;
 }
 
 li {
-    background-color: rgb(63, 63, 63);
-    font-family: 'Roboto', sans-serif;
+  background-color: rgb(63, 63, 63);
+  font-family: "Roboto", sans-serif;
 }
 
-a{
-    color: white;
+#portimgs {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: white;
 }
 
 a:hover {
-    color: lightgray;
+  color: lightgray;
+  opacity: 0.7;
 }
 
-#emailbutton:hover {
-    color: white;
+#emailbutton {
+  background-color: rgb(63, 63, 63);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#pixel {
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#social {
+  margin-top: 20px;
 }
 
 img {
-    padding: 5px;
+  padding: 5px;
 }
 
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-  }
-
-  .fa:hover {
-    opacity: 0.7;
-  }
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+/* Font awesome icon styling*/
+.fa:hover {
+  opacity: 0.7;
+}
 
 .fa-linkedin {
-    background: #007bb5;
-    color: white;
-  }
+  background: #007bb5;
+  color: white;
+}
 
-  .fa-instagram {
-    background: #125688;
-    color: white;
-  }
 
+form{
+  margin-top: 25px;
+  padding: 5px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.5);
+
+}
+input {
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  font-size: small;
+  font-family: "Roboto", sans-serif;
+  color: lightgray;
+  width: 90%;
+}
+
+#submit {
+  color: black;
+  width: 30%;
+}
 
 footer {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    background-color: rgb(63, 63, 63);
-    padding: 20px;
-    margin-top: 20px;
-    font-size: x-small;
-    font-family: 'Roboto', sans-serif;
-    color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background-color: rgb(63, 63, 63);
+  padding: 20px;
+  margin-top: 20px;
+  font-size: x-small;
+  font-family: "Roboto", sans-serif;
+  color: white;
 }

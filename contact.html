@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="stylesheet.css">
     <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <!--Font Awesome icon stylesheet-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -30,18 +31,31 @@
       <br>
       <div class="container">
        <h1>Contact</h1>
-       
-    <p> For inquiries, please contact: <br>
-        <button type="button" class="btn btn-secondary btn-lg">
-         <a href="mailto:jessparnow@gmail.com" id="emailbutton">
-        jessparnow@gmail.com</a></button>
-    </p>
-    <br>
+      <div class="row">
+         <div class="col-xs-2">
+            <p id="pixel"> For inquiries, please contact:</p> </div>
 
+            <div class="col-xs-offset10"></div>
+        </div>
+             <a href="mailto:jessparnow@gmail.com" id="emailbutton">jessparnow@gmail.com</a>
+        
+    <br>
+    <!-- Font Awesome icons-->
+    <div id="social">
     <a href="https://www.linkedin.com/in/jessica-parnow-4626221b9/" class="fa fa-linkedin" target="_blank"></a>
 
-    <a href="https://www.instagram.com/jjesskat/" class="fa fa-instagram" target="_blank"></a>
-   
+        </div>
+      <div class="row">
+        <div class="col-sm-3">
+        <form>
+          <input type="text" name="name" value="Enter name"><br>
+          <input type="text" name="email" value="Enter email"><br>
+          <input type="text" for="message" id="messsage"><br>
+          <input type="submit" value="Submit" id="submit">
+        </form>
+        </div>
+        <div class="col-sm-offset9"></div>
+        </div>
     </div>
     <footer>&copy Jess Parnow 2020</footer>
 </body>

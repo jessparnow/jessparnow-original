@@ -1,4 +1,4 @@
-# jessparnow-portfolio
+# Responsive Portfolio
 
 ## Objective
 Create a mobile responsive portfolio page using Bootstrap to minimize use of Media Queries<br>
@@ -13,11 +13,13 @@ Used Goodgle Fonts to incorporate fonts to use across all browsers<br>
 Used Awesome Fonts to create social media icons with links<br>
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/71057611/95645532-a3cd4900-0a85-11eb-8456-4e0f74ae99fe.png)
-![image](https://user-images.githubusercontent.com/71057611/95645533-a891fd00-0a85-11eb-9081-9c5233c95e9d.png)
-![image](https://user-images.githubusercontent.com/71057611/95645536-acbe1a80-0a85-11eb-8260-ca3beae2a37c.png)
-![image](https://user-images.githubusercontent.com/71057611/95645538-b182ce80-0a85-11eb-8605-407198f8072c.png)
-![image](https://user-images.githubusercontent.com/71057611/95645545-b6e01900-0a85-11eb-8900-01b337cbfb19.png)
+![largeaboutme](https://user-images.githubusercontent.com/71057611/95665152-31a34580-0b13-11eb-888a-c794b857ae3a.png)<br>
+![smallaboutme](https://user-images.githubusercontent.com/71057611/95665153-37992680-0b13-11eb-8a7b-93ef4708bc5d.png)<br>
+![largeportfolio](https://user-images.githubusercontent.com/71057611/95665155-3962ea00-0b13-11eb-9bbe-72d6707e08ff.png)<br>
+![smallportfolio](https://user-images.githubusercontent.com/71057611/95665156-3c5dda80-0b13-11eb-98e1-12d1da382aac.png)<br>
+![largecontact](https://user-images.githubusercontent.com/71057611/95665157-3ec03480-0b13-11eb-918b-57f6cdf73a8e.png)<br>
+![smallcontact](https://user-images.githubusercontent.com/71057611/95665160-4089f800-0b13-11eb-8cac-8b0652491595.png)<br>
+
 
 
 ## Contributing
@@ -29,7 +31,8 @@ Free for personal use
 [Google Fonts](https://fonts.google.com/)<br>
 [w3schools.com](https://www.w3schools.com/)<br>
 [Bootstrap Developer Tools](https://getbootstrap.com/docs/4.3/getting-started/introduction/)<br>
-[Paweł Czerwiński on Upsplash, background Image] (pawel-czerwinski-P8XV99FyzCk-unsplash.jpg)<br>
+Background Image:<br>
+[Paweł Czerwiński on Upsplash] (pawel-czerwinski-P8XV99FyzCk-unsplash.jpg)<br>
 
 ## Liscence
 
