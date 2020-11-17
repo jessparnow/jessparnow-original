@@ -2,17 +2,22 @@ h1,
 h2 {
   font-family: "Sacramento", cursive;
 }
-
+#aboutMeHeader {
+  margin-top: 50px;
+}
 body {
   font-family: "Roboto", sans-serif;
   padding: 20px;
-  background-image: url(pawel-czerwinski-P8XV99FyzCk-unsplash.jpg);
+  background-image: url(images/pawel-czerwinski-P8XV99FyzCk-unsplash.jpg);
 }
 
 .about {
   background: rgba(255, 255, 255, 0.5);
   padding: 5px;
   border-radius: 5px;
+}
+#secondParagraph {
+  margin-bottom: 50px;
 }
 
 li {
@@ -24,7 +29,6 @@ li {
   background: rgba(255, 255, 255, 0.5);
   padding: 5px;
   border-radius: 5px;
-  margin-bottom: 20px;
 }
 
 a {

@@ -12,6 +12,9 @@ Added external CSS to create styling.<br>
 Used Goodgle Fonts to incorporate fonts to use across all browsers<br>
 Used Awesome Fonts to create social media icons with links<br>
 
+## Link
+https://jessparnow.github.io/jessparnow-portfolio/
+
 ## Screenshots
 ![largeaboutme](https://user-images.githubusercontent.com/71057611/95665152-31a34580-0b13-11eb-888a-c794b857ae3a.png)<br>
 ![smallaboutme](https://user-images.githubusercontent.com/71057611/95665153-37992680-0b13-11eb-8a7b-93ef4708bc5d.png)<br>
@@ -32,7 +35,7 @@ Free for personal use
 [w3schools.com](https://www.w3schools.com/)<br>
 [Bootstrap Developer Tools](https://getbootstrap.com/docs/4.3/getting-started/introduction/)<br>
 Background Image:<br>
-[Paweł Czerwiński on Upsplash] (pawel-czerwinski-P8XV99FyzCk-unsplash.jpg)<br>
+[Paweł Czerwiński on Unsplash] (pawel-czerwinski-P8XV99FyzCk-unsplash.jpg)<br>
 
 ## Liscence
 
