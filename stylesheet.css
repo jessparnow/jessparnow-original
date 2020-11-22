@@ -1,18 +1,30 @@
+
 h1,
 h2 {
   font-family: "Sacramento", cursive;
+  color: #C0295A;
 }
-#aboutMeHeader {
-  margin-top: 50px;
+.jumbotron{
+  background-color: #03045e;
+  color: white;
 }
+/* buttons on the welcome page */
+#welcomeButton {
+  background-color: #C0295A;
+  border: none;
+}
+/* #aboutMeHeader {
+
+
+} */
 body {
   font-family: "Roboto", sans-serif;
   padding: 20px;
-  background-image: url(images/pawel-czerwinski-P8XV99FyzCk-unsplash.jpg);
+  /* background-image: url(images/pawel-czerwinski-P8XV99FyzCk-unsplash.jpg); */
 }
 
 .about {
-  background: rgba(255, 255, 255, 0.5);
+  background: #b2b09b;
   padding: 5px;
   border-radius: 5px;
 }
@@ -21,22 +33,20 @@ body {
 }
 
 li {
-  background-color: rgb(63, 63, 63);
+  background-color: white;
+  opacity: 75%;
   font-family: "Roboto", sans-serif;
-}
-
-#portimgs {
-  background: rgba(255, 255, 255, 0.5);
-  padding: 5px;
-  border-radius: 5px;
+  font-size: large;
+  text-align: center;
+  
 }
 
 a {
-  color: white;
+  color: black;
 }
 
 a:hover {
-  color: lightgray;
+  color: gray;
   opacity: 0.7;
 }
 
@@ -77,8 +87,7 @@ img {
   background: #007bb5;
   color: white;
 }
-
-
+/* Form Styling 
 form{
   margin-top: 25px;
   padding: 5px;
@@ -94,22 +103,20 @@ input {
   font-family: "Roboto", sans-serif;
   color: lightgray;
   width: 90%;
-}
+} 
 
 #submit {
   color: black;
   width: 30%;
-}
+} */
 
 footer {
   position: fixed;
   bottom: 0;
   right: 0;
   width: 100%;
-  background-color: rgb(63, 63, 63);
-  padding: 20px;
-  margin-top: 20px;
-  font-size: x-small;
+  background-color: #C0295A;
+  padding: 10px;
   font-family: "Roboto", sans-serif;
-  color: white;
+  padding-bottom: 20px;
 }
