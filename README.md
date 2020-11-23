@@ -16,6 +16,13 @@ Used Awesome Fonts to create social media icons with links<br>
 https://jessparnow.github.io/jessparnow-portfolio/
 
 ## Screenshots
+![welcomepage](https://user-images.githubusercontent.com/71057611/99921579-e2932780-2cf0-11eb-863b-8f8cfa8c8d2a.png)
+![portfoliopage](https://user-images.githubusercontent.com/71057611/99921581-e58e1800-2cf0-11eb-8a43-b88de5549229.png)
+![aboutmepage](https://user-images.githubusercontent.com/71057611/99921583-e9219f00-2cf0-11eb-9999-6b52fdca5f1b.png)<br>
+![welcomemobile](https://user-images.githubusercontent.com/71057611/99921587-ec1c8f80-2cf0-11eb-93e7-7775b73049aa.png)
+![aboutmemobile](https://user-images.githubusercontent.com/71057611/99921589-ede65300-2cf0-11eb-9d7a-a34e473c7e3d.png)
+![aboutmeiPad](https://user-images.githubusercontent.com/71057611/99921591-efb01680-2cf0-11eb-85df-33885d7e9bb0.png)
+
 
 ## Contributing
 Pull requests welcome<br>
