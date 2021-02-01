@@ -13,7 +13,7 @@ Used Goodgle Fonts to incorporate fonts to use across all browsers<br>
 Used Awesome Fonts to create social media icons with links<br>
 
 ## Link
-https://jessparnow.github.io/jessparnow-portfolio/
+https://jessparnow.github.io/jessparnow-original/
 
 ## Screenshots
 ![welcomepage](https://user-images.githubusercontent.com/71057611/99921579-e2932780-2cf0-11eb-863b-8f8cfa8c8d2a.png)
